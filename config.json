@@ -1,0 +1,12 @@
+{
+    "SQL_SERVER_AUTH_DB_NAME": "AuthDataBase",
+    "SQL_SERVER_SERVER_DB_NAME": "DiscordBotDataBase",
+    "SQL_SERVER_USER_NAME": "Admin",
+    "SQL_SERVER_USER_PASSWORD": "Sengordei#1",
+    "SQL_SERVER_HOST": "GORDEYPC",
+    "SQL_SERVER_DIALECT": "mssql",
+    "CONSUMER_QUEUE": "data_queue",
+    "GATEWAY_QUEUE": "data_gateway_queue",
+    "TOKEN_SERVICE_QUEUE": "token_queue",
+    "APP_QUEUE": "app_queue"
+}
